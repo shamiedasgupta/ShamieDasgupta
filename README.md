@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shamiedasgupta/ShamieDasgupta/blob/main/banner_final.png)
 <h1 align="center">Hi 👋, This is Shamie Dasgupta</h1>
 <h3 align="center">Aspiring Data Scientist | M.Sc in Data Science, St Xavier's College, Kolkata | B.Sc Statistics, St Xavier's College, Kolkata</h3>
 
