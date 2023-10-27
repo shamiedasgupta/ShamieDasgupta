@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**shamiedasgupta/ShamieDasgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, This is Shamie Dasgupta</h1>
+<h3 align="center">Aspiring Data Scientist | M.Sc in Data Science, St Xavier's College, Kolkata | B.Sc Statistics, St Xavier's College, Kolkata</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="motivation" width="400" src="https://i.pinimg.com/originals/05/f0/51/05f051163a10540a91c8c98f6bc1fbe8.jpg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiedasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="shamiedasgupta" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning, Optimization and time series**
+
+- 💬 Ask me about **Statistics, ML, data science**
+
+- 📫 How to reach me **shamiedasgupta2000@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yQQO8B9C_6waM9RdnaupOjMag4wvmU8F/view?usp=drive_link](https://drive.google.com/file/d/1yQQO8B9C_6waM9RdnaupOjMag4wvmU8F/view?usp=drive_link)
+
+- ⚡ Fun fact **In my free time, I like to immerse myself in the world of fiction and music.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shamiedasgupta-90467319a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamiedasgupta-90467319a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiedasgupta&" alt="shamiedasgupta" /></p>
