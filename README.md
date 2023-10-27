@@ -1,8 +1,9 @@
-![logo](https://github.com/shamiedasgupta/ShamieDasgupta/blob/main/banner_final.png)
+
+<img width="1240" height= "100" src="https://www.wallpaperup.com/uploads/wallpapers/2014/01/18/231622/ea932fb7a9335aa2c8c9611a8a39a013.jpg">
 <h1 align="center">Hi 👋, This is Shamie Dasgupta</h1>
 <h3 align="center">Aspiring Data Scientist | M.Sc in Data Science, St Xavier's College, Kolkata | B.Sc Statistics, St Xavier's College, Kolkata</h3>
 
-<img align="right" alt="motivation" width="400" src="https://i.pinimg.com/originals/05/f0/51/05f051163a10540a91c8c98f6bc1fbe8.jpg">
+<img align="right" alt="motivation" width="400" src="https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiedasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="shamiedasgupta" /> </p>
